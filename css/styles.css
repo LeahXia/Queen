@@ -1,0 +1,33 @@
+.bgimage {  
+    background:url("http://media.mutualart.com/Images/2011_06/29/14/144542085/47c5e3b9-b04e-4d34-b203-73df001bb02b.Jpeg");
+    background-position:top center; 
+    background-size:cover; 
+    margin-top:-20px;
+    height:1000px;
+    color:white;
+    }
+p{
+    font-size:20px;
+    
+    }
+.white-text{
+    margin-top:280px;
+}
+.life-image-left{
+    float:left;
+    width:200px;
+}
+.life-image-right{
+    float:right;
+    width:200px;
+}
+.life-text{
+    padding-left:120px;
+    font-size:35px;
+}
+.white-box{
+    margin:50px;
+    padding:30px;
+    background:#fff;
+}
+    
