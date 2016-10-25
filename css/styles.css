@@ -30,4 +30,24 @@ p{
     padding:30px;
     background:#fff;
 }
+.navbar{
+    background-color:#222;
+    height:70px;
+    display:block;
+    position:fixed;
+    margin-top:20px;
+    z-index:1;
+}
+.inline{
+    color:white;
+    display:inline-block;
+    padding:10px 20px 10px 20px; 
+    float:right;
+    font-size:22px;
+}
+.logo{
+    color:white;
+    display:inline-block;
+    padding:5px;
+}
     
